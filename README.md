@@ -1,16 +1,18 @@
-### Hi there 👋
+✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨ ✨
+#### Count
+<div>
+    <img src="https://count.getloli.com/get/@seele404?theme=rule34" style=" display: block; margin-left: auto; margin-right: auto; height: 160px"/>
+</div>
 
-<!--
-**seele404/seele404** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Today
 
-Here are some ideas to get you started:
+```text
+摸鱼   🕓 23h59m ██████████████████████████ 100.0%
+干活   🕓 0h1m   ░░░░░░░░░░░░░░░░░░░░░░░░░░ 0.00%
+```
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--彩虹分割线--> 
+<img width="200%" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/hr.gif" />
+<br/>
+
+<p align="center">没了！</p>
